@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("1111");
-        System.out.println("333");
+        int a = 1;
+        System.out.println("333 " + a );
+
     }
 }
