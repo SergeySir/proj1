@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc78cd78-54b2-4a26-a8bc-d1a935815110" name="Changes" comment="выполнены улучшения">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stepup/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stepup/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc78cd78-54b2-4a26-a8bc-d1a935815110" name="Changes" comment="Допавил переменную" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,11 +94,34 @@
       <option name="project" value="LOCAL" />
       <updated>1684249690016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Опять выполнены улучшения">
+      <created>1684250299906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684250299906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Опять выполнены улучшения">
+      <created>1684250367870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684250367870</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Допавил переменную">
+      <created>1684250496632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684250496632</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="выполнены улучшения" />
-    <option name="LAST_COMMIT_MESSAGE" value="выполнены улучшения" />
+    <MESSAGE value="Опять выполнены улучшения" />
+    <MESSAGE value="Допавил переменную" />
+    <option name="LAST_COMMIT_MESSAGE" value="Допавил переменную" />
   </component>
 </project>
